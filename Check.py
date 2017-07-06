@@ -2,7 +2,7 @@
 #A useful check thing that lets users decide if they want to continue or 
 #quit if they mess up on inputs
 
-#REQUIRES a function called main() in order to 
+#REQUIRES a function called main() in order to work!!!
 
 def check():
     print("Do you want to continue?")
